@@ -53,7 +53,5 @@ contract LightToken {
 
         return true;
     }
-    // function getBalance(address adr ) public view returns(uint){
-    //     return balanceOf[adr];
-    // }
+    
 }
